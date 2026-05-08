@@ -6,7 +6,7 @@ authors:
     orcid: "https://orcid.org/0000-0000-0000-0000" # Opcional, se você tiver ORCID
 title: "TED: Late-time Dark Energy Decay model"
 version: 1.0.0
-doi: "" # Você pode gerar um DOI futuramente via Zenodo
+doi: ---------------
 date-released: 2026-05-08
 url: "https://github.com/BrexPao/TED-cosmology"
 repository-code: "https://github.com/BrexPao/TED-cosmology"
