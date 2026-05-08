@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Nabarrete"
+    given-names: "Breno"
+    orcid: "https://orcid.org/0000-0000-0000-0000" # Opcional, se você tiver ORCID
+title: "TED: Late-time Dark Energy Decay model"
+version: 1.0.0
+doi: "" # Você pode gerar um DOI futuramente via Zenodo
+date-released: 2026-05-08
+url: "https://github.com/BrexPao/TED-cosmology"
+repository-code: "https://github.com/BrexPao/TED-cosmology"
+keywords:
+  - cosmology
+  - dark-energy
+  - hubble-tension
+  - s8-tension
+  - monte-carlo-markov-chain
+abstract: >-
+  This repository contains the implementation and inference pipeline for the TED model, 
+  a phenomenological extension to ΛCDM designed to mitigate H0 and S8 tensions 
+  through a late-time decay of dark energy density.
