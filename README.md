@@ -8,3 +8,5 @@ This repository contains the code, data, and inference scripts for the TED cosmo
 
 ### Growth of Structure
 ![Growth](results/crescimento_f_sigma_8.png)
+
+The physical implementation can be found in the /src folder, and the statistical validation plots are available in /results.
