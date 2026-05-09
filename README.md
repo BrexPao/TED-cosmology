@@ -4,7 +4,7 @@ This repository contains the code, data, and inference scripts for the TED cosmo
 ## Visual Results
 
 ### Parameter Constraints (H0 vs S8)
-![Constraints](results/constraintsdated.png)
+![Constraints](results/constraintsdated.jpg)
 
 ### Growth of Structure
 ![Growth](results/crescimento_f_sigma_8.png)
